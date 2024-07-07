@@ -1,6 +1,3 @@
-Sure! Here's a README file for your project:
-
----
 
 # Real Estate Web App
 
@@ -101,6 +98,3 @@ The Real Estate Web App is a comprehensive platform designed to streamline the p
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
----
-
-Feel free to adjust any part of this README to better fit your project's specifics!
